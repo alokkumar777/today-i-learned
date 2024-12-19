@@ -7,4 +7,5 @@ gh repo create
 gh repo clone <owner/repo-name>
 gh repo view 
 gh repo view --web
+gh repo delete <repo_name>
 ```
